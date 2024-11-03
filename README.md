@@ -1,33 +1,34 @@
 <img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
 
-# [Project Name] 🎯
+# Holiday Notification 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: Land Lords
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: Karthik Krishna - College of Engeneering Munnar
+- Member 2: Saket Ullas - College of Engeneering Munnar
+- Member 3: Rixon N Punnachan - College of Engeneering Munnar
 
 ### Project Description
-[2-3 lines about what your project does]
+
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+Many institutions lack a streamlined system to notify students and employees of upcoming breaks, causing confusion and poor planning.
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+It solves the nightmare of most of the people by informing their Happy Holidays.
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- js, html, css
+- frontend
+- static
+- Stackblitz![WhatsApp Image 2024-11-03 at 06 55 24](https://github.com/user-attachments/assets/c1d03a72-8045-42ab-8a9c-2800aac3cf2a)
+
 
 For Hardware:
 - [List main components]
@@ -46,7 +47,8 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
+![WhatsApp Image 2024-11-03 at 06 55 24](https://github.com/user-attachments/assets/c8477867-711a-4261-9130-c58080aa8542)
+
 *Add caption explaining what this shows*
 
 ![Screenshot2](Add screenshot 2 here with proper name)
@@ -87,9 +89,9 @@ For Hardware:
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- Karthik Krishna: Brought up the idea and executed it
+- Saket Ullas : helprd to execute
+- Rixon N Punnachan : helprd to execute
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
